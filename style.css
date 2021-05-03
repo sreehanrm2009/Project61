@@ -97,6 +97,8 @@ p {
 
 .links:hover {
     background-color: #1E90FF;
+    font-size: 25px;
+    text-decoration: underline;
 }
 
 a {
